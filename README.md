@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Guilherme-Kaua/Guilherme-Kaua/main/github-header-image.png" alt="Banner do Perfil de Guilherme Kauã">
-</p>
-
 <h1 align="center">Olá 👋, eu sou Guilherme Kauã</h1>
 <h3 align="center">Um Desenvolvedor Full-Stack em formação.</h3>
 
