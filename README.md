@@ -22,7 +22,7 @@ Aqui estão algumas das principais tecnologias e ferramentas com as quais trabal
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,idea,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,mysql,git,github,idea,vscode&perline=6" />
   </a>
 </p>
 
