@@ -38,7 +38,6 @@ Estas são minhas estatísticas de contribuição e as linguagens que mais utili
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Kaua&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
-
 ## 📫 Conecte-se Comigo
 
 
