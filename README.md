@@ -35,8 +35,10 @@ Estas são minhas estatísticas de contribuição e as linguagens que mais utili
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Kaua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Kaua&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Kaua&layout=compact&langs_count=8&theme=dracula&hide=html,css)
+
+![Tecnologias (doughnut)](https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Python%22%2C%22JavaScript%22%2C%22Outros%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B50%2C30%2C15%2C5%5D%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Tecnologias%22%7D%7D%7D)
+
 
 ## 📫 Conecte-se Comigo
 
