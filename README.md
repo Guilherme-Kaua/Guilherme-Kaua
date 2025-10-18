@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Guilherme Kauã</h1>
-<h3 align="center">Um Desenvolvedor Full-Stack em formação.</h3>
+<h3 align="center">Um Desenvolvedor Full-Stack em formação</h3>
+<h4 align="center">Atualmente na Faculdade de Análise e Desenvolvimento de Sistemas</h4>
 
 <p align="center">
   <a href="https://github.com/Guilherme-Kaua">
@@ -11,9 +12,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🌱 Atualmente estou aprimorando minhas habilidades em **Java** e **JavaScript** para construir aplicações mais robustas.
+- 🌱 Atualmente estou aprimorando minhas habilidades em **Java** e **Javascript** para construir aplicações mais robustas.
 - 🚀 Tenho um interesse especial em **BackEnd**, buscando sempre criar códigos que sejam mais eficientes e inteligentes.
-- 💬 Fique à vontade para me perguntar sobre **Java, Python!**.
+- 💬 Fique à vontade para me perguntar sobre **Java, Python!**
 - 📫 Você pode me encontrar no email: **guilherme.kaua.matos@gmail.com** ---
 
 ## 🛠️ Minha Caixa de Ferramentas Tecnológica
