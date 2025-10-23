@@ -12,10 +12,10 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🌱 Atualmente estou aprimorando minhas habilidades em **Java** e **Javascript** para construir aplicações mais robustas.
-- 🚀 Tenho um interesse especial em **BackEnd**, buscando sempre criar códigos que sejam mais eficientes e inteligentes.
-- 💬 Fique à vontade para me perguntar sobre **Java, Python!**
-- 📫 Você pode me encontrar no email: **guilherme.kaua.matos@gmail.com** ---
+-  Atualmente estou aprimorando minhas habilidades em **Java** e **Javascript** para construir aplicações mais robustas.
+-  Tenho um interesse especial em **BackEnd**, buscando sempre criar códigos que sejam mais eficientes e inteligentes.
+-  Fique à vontade para me perguntar sobre **Java, Python!**
+-  Você pode me encontrar no email: **guilherme.kaua.matos@gmail.com** ---
 
 ## 🛠️ Minha Caixa de Ferramentas Tecnológica
 
